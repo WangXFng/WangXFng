@@ -5,4 +5,4 @@
 📫 Reach me at g22dtsa7@yamanashi.ac.jp
 
 <summary><b>✨ News ✨</b></summary>
-<b><u>April 8 2024</u></b> - We have two papers accepted to SIGIR'24! 
+<u>April 8 2024</u> - We have two papers accepted to SIGIR'24! 
