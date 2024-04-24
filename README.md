@@ -1,4 +1,4 @@
-### Hi there! This is Xinfeng Wang (王欣峰 in Chinese). 
+### Hi there! This is Xinfeng Wang. 
 👋
 🔭 I’m currently working on **Recommendation Systems**. [Google Scholar](https://scholar.google.com/citations?user=l-ye3qgAAAAJ&hl=zh-CN)
 
