@@ -5,4 +5,4 @@
 📫 Reach me at g22dtsa7@yamanashi.ac.jp;kaysenn@163.com
 
 <summary><b>✨ News ✨</b></summary>
-<b>April 8 2024</b> - We have two papers accepted to SIGIR'24! 
+<b>April 8 2024</b> - We have two papers accepted to SIGIR'24! [CaDRec](https://arxiv.org/pdf/2404.06895) [NFARec](https://arxiv.org/pdf/2404.06900)
