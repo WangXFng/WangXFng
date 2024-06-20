@@ -1,6 +1,6 @@
 ### Hi there! This is Xinfeng Wang. 
 
-🔭 I’m currently working on **Recommendation Systems**. [Homepage](https://sites.google.com/view/wangxinfeng/) [Google Scholar](https://scholar.google.com/citations?user=l-ye3qgAAAAJ&hl=zh-CN)
+🔭 I’m currently working on **Recommendation Systems**. [Homepage](https://wangxfng.github.io/) [Google Scholar](https://scholar.google.com/citations?user=l-ye3qgAAAAJ&hl=zh-CN)
 
 📫 Reach me at g22dtsa7@yamanashi.ac.jp;kaysenn@163.com 
 
