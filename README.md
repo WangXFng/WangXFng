@@ -6,6 +6,8 @@
 
 ✨✨ **News** ✨✨
 
+**May 16th 2025** - We have two long papers accepted to **ACL'24 Findings**!
+
 **Sep 20th 2024** - We have a long paper accepted to **EMNLP'24 Main**! [[ELMRec]](https://arxiv.org/pdf/2409.19979).
 
 **May 16th 2024** - We have a short paper accepted to **ACL'24 Main**! [[RDRec]](https://arxiv.org/pdf/2405.10587)
